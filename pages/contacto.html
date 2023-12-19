@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="shortcut icon" href="./img/logo solo calipso.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <!---------------HEADER--------------------->
+    <header class="header">
+        <nav class="nav">
+             <div>
+             <img src="../img/logo-azul.png" height="40"> 
+             </div>
+             
+             <ul class="menu">
+             <li><a class="link tipografia-menu" href="../index.html">Inicio</a></li>
+             <li><a class="link tipografia-menu" href="./sobre mi.html">Sobre mi</a></li>
+             <li><a class="link tipografia-menu" href="./terapias.html">Terapias</a></li>
+             <li><a class="link tipografia-menu" href="./blog.html">Blog</a></li>
+             <li><a class="link tipografia-menu" href="./cursos.html">Cursos & Talleres</a></li>
+             <li><a class="link tipografia-menu" href="./contacto.html">Contacto</a></li>
+             </ul>
+        </nav>
+     </header>
+ 
+ <!-----------------------MAIN---------------->
+ 
+     <main>
+         <section class="hero">
+         <div>
+             <h1 class="titulo">CONTACTO</h1>
+             <h2 class="subtitulo"><mark>¡Hablemos!</mark></h2>            
+         </div>
+         </section>
+
+         <section class="seccion-1">
+            <div>
+                <p class="tipografia-parrafo">
+                    Si necesitas más información, por favor ponte en contacto a través de redes sociales o llenando el formulario a continuación:
+            </div>
+
+           <form>
+            <div>
+                <label for="nombre">Nombre:</label>
+                <input type="text" placeholder="Ingresa tu nombre" id="nombre" required>
+            </div>
+            <div>
+                <label for="mail">Mail:</label>
+                <input type="email" placeholder="Ingresa tu mail" id="mail" required>
+            </div>
+            <div>
+                <label for="telefono">Teléfono:</label>
+                <input type="tel" placeholder="Ingresa tu teléfono" id="telefono" required>
+            </div>
+            <div>
+                <h3>Selecciona las terapias se las que quieres recibir información</h3>
+                <div><label for="yoga">Yoga Tradicional</label><input type="checkbox" id="yoga">
+                    <label for="tarot">Tarot Terapéutico Transpersonal</label><input type="checkbox" id="tarot">
+                    <label for="flores">Flores de Bach</label><input type="checkbox" id="flores">
+                </div>
+                <div>
+                    <label for="meditacion">Meditación</label><input type="checkbox" id="meditacion">
+                <label for="dmt">Danza Movimiento Terapia</label><input type="checkbox" id="dmt">                
+                </div>
+                
+            </div>
+            <div>
+                <label for="mensaje"></label>
+                <textarea cols="30" rows="10" placeholder="Aquí escribe tu mensaje" id="mensaje" required></textarea>
+            </div>
+            <div>
+                <h3>¿Quieres recibir el newsletter de Yogamable?</h3>
+            </div>
+            <div>
+                <label for="si">Si, me encantaría!</label><input type="radio" name="newsletter" id="si">
+                <label for="no">Por ahora no, gracias</label><input type="radio" name="newsletter" id="no">
+            
+            </div>
+            <div>
+                <input type="reset" >
+                <input type="submit">
+            </div>
+           </form>
+
+            </section>
+    
+<!-----------------FOOTER--------------->
+
+<footer class="footer">
+    <div class="footer-1">
+        <ul>
+            <li><a href="./index.html" class="footer-link">Inicio</a></li>
+            <li><a href="./pages/sobre mi.html" class="footer-link">Sobre mi</a></li>
+            <li><a href="./pages/terapias.html" class="footer-link">Terapias</a></li>
+            <li><a href="./pages/blog.html" class="footer-link">Blog</a></li>
+            <li><a href="./pages/contacto.html" class="footer-link">Contacto</a></li>
+        </ul>
+    </div>
+
+    <div class="footer-2">
+        <img src="../img/logo-azul.png" alt="logo yogamable" width="80">
+    </div>
+
+    <div class="footer-3">
+        <ul>
+            <li><a href="#"><i class="bi bi-envelope-fill"></i></a></li>
+            <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+            <li><a href="#"><i class="bi bi-instagram"></i></i></a></li>
+            <li><a href="#"><i class="bi bi-whatsapp"></i></i></a></li>  
+        </ul>
+    </div>        
+</footer>
+
+
+</body>
+</html>

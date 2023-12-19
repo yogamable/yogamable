@@ -1,0 +1,152 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/*MENU: Logo, yogamable, links menu*/
+.celadon{
+    color:#A3D2B7;
+}
+
+.tipografia-logo {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.link {
+    color: #414141
+}
+
+li {
+    list-style-type: none;
+}
+
+.tipografia-menu {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    text-decoration: overline;
+    text-decoration-color: #414141;
+}
+
+.header {
+    box-sizing: border-box;
+    padding: .1rem;
+}
+
+.nav {
+    margin: 1rem;
+}
+
+.menu {
+    gap: 1rem;
+}
+
+.nav, .menu {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*FUENTE TITULOS*/
+.titulo {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4rem;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+/*FUENTE SUBTITULOS*/
+.subtitulo {
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    text-align: center;
+    }
+
+/*FUENTE TEXTO*/
+.tipografia-parrafo {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    font-style: normal;
+    text-align: center;
+}
+
+.hero {
+    background-image: url(../img/background-hero.JPG);
+    background-size: cover;
+}
+
+.hero, .titulo, .subtitulo, .seccion-1 {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+mark {
+    background-color: #A3D2B7;
+    color: #ffffff;
+}
+
+.caja-terapias-1, .caja-terapias-2 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.cajas {
+    padding: 1.5rem;
+    justify-content: space-between;
+    margin-top: 2rem;
+    display: inline-block;
+    align-items: center;
+    background-color: #A3D2B7;
+}
+
+.link-cajas {
+    color: #414141;
+    text-align: center;
+}
+
+.texto-cajas {
+    text-align: left;
+}
+
+.footer {
+    display: flex;
+    padding: 3rem;
+    margin-top: 3rem;
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(163, 210, 183, .3);
+}
+
+.footer-1, .footer-2 {
+    flex: .2;
+}
+
+.footer-iconos {
+    padding: .5rem;
+}
+
+.footer-link {
+    color: #414141;
+}
+
+.footer-3 {
+    color: black;
+}
+
+
+/*PALETA DE COLORES
+414141 onyx
+E47264 bittersweet
+D4A8A5 rosy brown
+A3D2B7 celadon
+579493 dark cyan
+E7A83E hunyadi yellow */
+
