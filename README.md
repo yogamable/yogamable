@@ -1,4 +1,4 @@
-<h1 align="center"><>Sobre mi</></h1>
+<h1 align="center"><>Sobre mi< /></h1>
 
 ###
 
