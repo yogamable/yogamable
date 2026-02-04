@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Cientista Política, egresada recientemente de Desarrollo Front-End y Vue.js.<br><br>Me caracterizo por ser una profesional creativa que gusta de los desafíos interdisciplinarios, generadora de ambientes laborales gratos y colaborativos, siempre disponible para aprender y aportar desde mis conocimientos y experiencia. <br><br>En el ámbito de la programación, los lenguajes que manejo son HTML, CSS, Sass y JavaScript.<br><br>Me puedes contactar a través de  mi correo nicovelbaz@gmail.com</p>
+<p align="left">Cientista Política | Desarrollo Front-End | Vue.js | React.js <br><br>Me caracterizo por ser una profesional creativa que gusta de los desafíos interdisciplinarios, generadora de ambientes laborales gratos y colaborativos, siempre disponible para aprender y aportar desde mis conocimientos y experiencia. <br><br>En el ámbito de la programación, los lenguajes que manejo son HTML, CSS, Sass y JavaScript.<br><br>Me puedes contactar a través de  mi correo nicovelbaz@gmail.com</p>
 
 ###
 
