@@ -1,29 +1,17 @@
-<h1 align="center">< >Sobre mi< /></h1>
 
-###
-
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/nicovelbaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="38" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo" />
   </a>
+  <h1>Nicole Velásquez</h1>  
 </div>
 
-###
+<p align="center">Cientista Política | Desarrollo Front-End | Vue.js | React.js</p>
+<p align="center">En el ámbito de la programación, los lenguajes que manejo son HTML, CSS, Sass, JavaScript, VueJS y ReactJS.</p>
+<br>
 
-<p align="left">Cientista Política | Desarrollo Front-End | Vue.js | React.js <br><br>Profesional creativa que gusta de los desafíos interdisciplinarios, generadora de ambientes laborales gratos y colaborativos, siempre disponible para aprender y aportar desde mis conocimientos y experiencia. <br><br>En el ámbito de la programación, los lenguajes que manejo son HTML, CSS, Sass, JavaScript, VueJS y ReactJS.<br><br>Me puedes contactar a través de  mi correo nicovelbaz@gmail.com</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogamable&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -47,5 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-###
+<br>
+<p align="center">Me puedes contactar a través de  mi correo nicovelbaz@gmail.com</p>
